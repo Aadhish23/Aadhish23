@@ -24,7 +24,7 @@
       <img src="https://img.shields.io/badge/LeetCode-700%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
     &nbsp;
-    <a href="mailto:aadhishs.cse2024@citchennai.net">
+    <a href="mailto:aadhish2337@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
@@ -52,7 +52,7 @@ hobbies: [Competitive Programming, Open Source Exploration, Tech Reading]
 - 🧠 **Problem Solving:** Solved **700+ problems** on [LeetCode](https://leetcode.com/u/aadhish23/) with a strong focus on Data Structures & Algorithms.
 - 🌱 **Expanding Knowledge:** Advanced system design, microservices, and database optimization.
 - 💬 **Ask Me About:** Python, C++, Java, React, FastAPI, Django, and database design.
-- 📫 **How to Reach Me:** Connect on [LinkedIn](https://www.linkedin.com/in/aadhish23) or drop me an [email](mailto:aadhishs.cse2024@citchennai.net).
+- 📫 **How to Reach Me:** Connect on [LinkedIn](https://www.linkedin.com/in/aadhish23) or drop me an [email](mailto:aadhish2337@gmail.com).
 
 ---
 
@@ -156,12 +156,8 @@ hobbies: [Competitive Programming, Open Source Exploration, Tech Reading]
     <img src="https://img.shields.io/badge/LeetCode-aadhish23-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:aadhishs.cse2024@citchennai.net">
+  <a href="mailto:aadhish2337@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Aadhish23" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Aadhish23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
