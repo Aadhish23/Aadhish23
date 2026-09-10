@@ -11,7 +11,7 @@
   </a>
 
   <p align="center">
-    <strong>Building robust applications, scalable architectures & clean code</strong> 🚀
+    <strong>Computer Science & Engineering · CIT Chennai</strong> · Tamil Nadu, India 🇮🇳
   </p>
 
   <!-- Quick Badges -->
@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:aadhishs.cse2024@citchennai.net">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
@@ -47,7 +47,7 @@ hobbies: [Competitive Programming, Open Source Exploration, Tech Reading]
 - 🌱 **Expanding Knowledge:** Advanced system design, microservices, and database optimization.
 - 💡 **Passion:** Solving challenging algorithmic problems and turning ideas into efficient, clean code.
 - 💬 **Ask Me About:** Python, C++, Java, React, FastAPI, Django, and database design.
-- 📫 **How to Reach Me:** Reach out via [LinkedIn](https://www.linkedin.com/) or drop me an [email](mailto:your-email@example.com).
+- 📫 **How to Reach Me:** Reach out via [LinkedIn](https://www.linkedin.com/) or drop me an [email](mailto:aadhishs.cse2024@citchennai.net).
 
 ---
 
@@ -137,7 +137,7 @@ hobbies: [Competitive Programming, Open Source Exploration, Tech Reading]
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:aadhishs.cse2024@citchennai.net">
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
