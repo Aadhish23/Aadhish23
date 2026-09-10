@@ -52,7 +52,7 @@ hobbies: [Competitive Programming, Open Source Exploration, Tech Reading]
 - 🔭 **Currently Building:** High-performance web applications and backend services with modern architectures.
 - 🧠 **Problem Solving:** Solved **700+ problems** on [LeetCode](https://leetcode.com/u/aadhish23/) with a strong focus on Data Structures & Algorithms.
 - 🌱 **Expanding Knowledge:** Advanced system design, microservices, and database optimization.
-- 💬 **Ask Me About:** Python, C++, Java, React, FastAPI, Django, and database design.
+- 💬 **Ask Me About:** Python, C++, Java, React, FastAPI, and database design.
 - 📫 **How to Reach Me:** Connect on [LinkedIn](https://www.linkedin.com/in/aadhish23) or drop me an [email](mailto:aadhish2337@gmail.com).
 
 ---
@@ -77,14 +77,14 @@ hobbies: [Competitive Programming, Open Source Exploration, Tech Reading]
 
   <p><strong>Backend Frameworks & Databases</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,django,express,postgres,mongodb,mysql,redis&theme=dark" alt="Backend & Databases" />
+    <img src="https://skillicons.dev/icons?i=fastapi,express,postgres,mongodb,mysql&theme=dark" alt="Backend & Databases" />
   </a>
 
   <br/><br/>
 
-  <p><strong>DevOps, Cloud & Developer Tools</strong></p>
+  <p><strong>Developer Tools & Platforms</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode&theme=dark" alt="DevOps & Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Developer Tools" />
   </a>
 
 </div>
