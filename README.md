@@ -16,8 +16,12 @@
 
   <!-- Quick Badges -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/aadhish23" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-aadhish23-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://leetcode.com/u/aadhish23/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-700%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
     &nbsp;
     <a href="mailto:aadhishs.cse2024@citchennai.net">
@@ -40,14 +44,15 @@ name: Aadhish S
 role: Aspiring Software Engineer
 interests: [Backend Systems, Full-Stack Web Development, High-Performance Computing]
 current_focus: [Scalable Architectures, Cloud Native Development, Distributed Systems]
+achievements: [700+ LeetCode Problems Solved, Top 100k Global Ranking]
 hobbies: [Competitive Programming, Open Source Exploration, Tech Reading]
 ```
 
 - 🔭 **Currently Building:** High-performance web applications and backend services with modern architectures.
+- 🧠 **Problem Solving:** Solved **700+ problems** on [LeetCode](https://leetcode.com/u/aadhish23/) with a strong focus on Data Structures & Algorithms.
 - 🌱 **Expanding Knowledge:** Advanced system design, microservices, and database optimization.
-- 💡 **Passion:** Solving challenging algorithmic problems and turning ideas into efficient, clean code.
 - 💬 **Ask Me About:** Python, C++, Java, React, FastAPI, Django, and database design.
-- 📫 **How to Reach Me:** Reach out via [LinkedIn](https://www.linkedin.com/) or drop me an [email](mailto:aadhishs.cse2024@citchennai.net).
+- 📫 **How to Reach Me:** Connect on [LinkedIn](https://www.linkedin.com/in/aadhish23) or drop me an [email](mailto:aadhishs.cse2024@citchennai.net).
 
 ---
 
@@ -81,6 +86,16 @@ hobbies: [Competitive Programming, Open Source Exploration, Tech Reading]
     <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode&theme=dark" alt="DevOps & Tools" />
   </a>
 
+</div>
+
+---
+
+### 🧩 Competitive Programming & LeetCode
+
+<div align="center">
+  <a href="https://leetcode.com/u/aadhish23/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/aadhish23?theme=tokyonight&font=Fira%20Code&ext=activity" alt="Aadhish23 LeetCode Stats" />
+  </a>
 </div>
 
 ---
@@ -133,8 +148,12 @@ hobbies: [Competitive Programming, Open Source Exploration, Tech Reading]
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/aadhish23" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-aadhish23-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/aadhish23/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-aadhish23-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:aadhishs.cse2024@citchennai.net">
